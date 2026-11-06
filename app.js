@@ -1,6 +1,6 @@
 /* ===== ตั้งค่า ===== */
 const CONFIG = {
-  PROMPTPAY_PHONE: '0831595839',
+  PROMPTPAY_PHONE: '0831595830',
   ACCOUNT_NAME: 'น.ส.เกวรินทร์ เอกสินิทธ์กุล',
   SCRIPT_URL: 'https://script.google.com/macros/s/AKfycbz_pUyCg9srLlIPRmjyKfkFQ-FCWTC4C8PCuM2L9jzc0umL2wmBDC94nlo0EruXpjZi/exec'
 };
